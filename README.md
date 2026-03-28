@@ -64,8 +64,8 @@ Tenho interesse em atuar como desenvolvedor **Back-End**, com foco em **Java**, 
 
 ## 📫 Contato
 
-- 💼 LinkedIn: (adicione depois)
-- 📧 Email: (adicione depois)
+- 💼 LinkedIn: www.linkedin.com/in/fernandof-santos
+- 📧 Email: Ferreira.fe.08@gmail.com
 
 ---
 
