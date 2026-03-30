@@ -52,13 +52,6 @@ Tenho interesse em atuar como desenvolvedor **Back-End**, com foco em **Java**, 
   </a>
 </div>
 
----
-
-## 🔥 Streak de contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
