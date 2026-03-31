@@ -43,18 +43,6 @@ Tenho interesse em atuar como desenvolvedor **Back-End**, com foco em **Java**, 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div>
-  <a href="https://github.com/SEU-USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
-
----
-
 ## 📫 Contato
 
 - 💼 LinkedIn: www.linkedin.com/in/fernandof-santos
