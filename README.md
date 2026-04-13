@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Fernando Ferreira!
 
-💻 Desenvolvedor Back-End em formação  
+💻 Desenvolvedor Back-End em formação com foco em Java 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul – São Miguel Paulista)  
 🚀 Focado em me tornar um desenvolvedor Java  
 
@@ -18,7 +18,7 @@ Estou em constante evolução, com foco em desenvolver habilidades que me permit
 ## 🚀 Projeto em destaque
 
 🔹 **Sistema de Cadastro de Alunos (Python)**  
-Projeto com menu interativo que permite cadastrar alunos, listar dados e calcular médias, utilizando estruturas de repetição, condicionais e tratamento de erros.  
+Projeto com menu interativo para gerenciamento de alunos, permitindo cadastro, listagem e cálculo de médias, com validação de dados e tratamento de erros.
 
 ➡️ https://github.com/fernandof-santos/sistema-cadastro-alunos-python  
 
@@ -27,8 +27,8 @@ Projeto com menu interativo que permite cadastrar alunos, listar dados e calcula
 ## 🛠️ Tecnologias
 
 - Java (em aprendizado)
-- Python
-- Git e GitHub
+- Python (projetos práticos)
+- Git e GitHub (versionamento)
 - Lógica de Programação
 
 ---
