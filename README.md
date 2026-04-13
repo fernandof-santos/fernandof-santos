@@ -5,12 +5,13 @@
 🚀 Focado em me tornar um desenvolvedor Java  
 
 ---
-
 ## 🧠 Sobre mim
 
 Sou um desenvolvedor em formação com foco em Back-End, estudando Java e construindo minha base com lógica de programação e prática constante.
 
-Tenho experiência com Python em projetos práticos e estou evoluindo minhas habilidades para atuar profissionalmente na área de desenvolvimento.
+Tenho experiência com Python em projetos práticos, onde desenvolvi soluções utilizando estruturas de repetição, condicionais e tratamento de erros, sempre buscando resolver problemas de forma estruturada e eficiente.
+
+Estou em constante evolução, com foco em desenvolver habilidades que me permitam atuar profissionalmente na área de desenvolvimento.
 
 ---
 
