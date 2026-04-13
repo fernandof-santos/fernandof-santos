@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Fernando!
+## 👋 Olá, eu sou o Fernando Ferreira!
 
 💻 Desenvolvedor Back-End em formação  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul – São Miguel Paulista)  
