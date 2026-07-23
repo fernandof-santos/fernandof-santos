@@ -7,13 +7,16 @@
 </p>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/fernandof-santos/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:ferreira.fe.08@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ferreira.fe.08@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
 
 ---
 
@@ -63,5 +66,7 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor, conti
 ---
 
 <p align="center">
+
 ⭐ Obrigado por visitar meu perfil!
+
 </p>
