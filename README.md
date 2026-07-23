@@ -1,48 +1,117 @@
-## 👋 Olá, eu sou o Fernando Ferreira!
+<h1 align="center">👋 Olá, eu sou o Fernando Ferreira!</h1>
 
-💻 Desenvolvedor Back-End em formação com foco em Java  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul – São Miguel Paulista)  
-🚀 Buscando minha primeira oportunidade na área de desenvolvimento
-
----
-## 🧠 Sobre mim
-
-Sou um desenvolvedor em formação com foco em Back-End, estudando Java e construindo minha base com lógica de programação e prática constante.
-
-Tenho experiência com Python em projetos práticos, onde desenvolvi soluções utilizando estruturas de repetição, condicionais e tratamento de erros, sempre buscando resolver problemas de forma estruturada e eficiente.
-
-Estou em constante evolução, com foco em desenvolver habilidades que me permitam atuar profissionalmente na área de desenvolvimento.
+<p align="center">
+💻 Desenvolvedor Back-End em formação <br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+🚀 Em busca da minha primeira oportunidade como Desenvolvedor Back-End
+</p>
 
 ---
 
-## 🚀 Projeto em destaque
+# 🧠 Sobre mim
 
-🔹 **Sistema de Cadastro de Alunos (Python)**  
-Projeto com menu interativo para gerenciamento de alunos, permitindo cadastro, listagem e cálculo de médias, com validação de dados e tratamento de erros.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software.
 
-➡️ https://github.com/fernandof-santos/sistema-cadastro-alunos-python  
+Atualmente estou construindo minha base em programação com foco em Java, desenvolvendo projetos práticos para fortalecer minha lógica de programação, escrita de código limpo e boas práticas de desenvolvimento.
 
----
-
-## 🛠️ Tecnologias
-
-- Java (em aprendizado)
-- Python (projetos práticos)
-- Git e GitHub (versionamento)
-- Lógica de Programação
+Também estudo Git e GitHub para versionamento de código e documentação de projetos, buscando evoluir continuamente e construir um portfólio cada vez mais sólido.
 
 ---
 
-## 🎯 Objetivos
+# 🚀 Projetos em destaque
 
-- Conseguir minha primeira oportunidade como desenvolvedor  
-- Evoluir na área de Back-End  
-- Dominar Java  
-- Criar projetos práticos  
+## ☕ Java Basic Exercises
+
+Coleção de exercícios desenvolvidos durante meus estudos em Java, organizados por tópicos como:
+
+- Variáveis
+- Estruturas condicionais
+- Loops
+- Operações matemáticas
+- Algoritmos
+- Organização utilizando Packages
+
+🔗 https://github.com/fernandof-santos/java-basic-exercises
 
 ---
 
-## 📫 Contato
+## 🏦 Sistema Bancário
 
-📌 LinkedIn: https://www.linkedin.com/in/fernandof-santos  
-📧 Email: ferreira.fe.08@gmail.com  
+Projeto desenvolvido em Python para praticar lógica de programação, funções e organização de código.
+
+🔗 https://github.com/fernandof-santos/Sistema-Bancario
+
+---
+
+## 👨‍🎓 Sistema de Cadastro de Alunos
+
+Projeto desenvolvido em Python para cadastro de alunos, cálculo de médias e gerenciamento simples de informações.
+
+🔗 https://github.com/fernandof-santos/sistema-cadastro-alunos-python
+
+---
+
+# 🛠️ Tecnologias
+
+- ☕ Java
+- 🐍 Python
+- 🌿 Git
+- 🐙 GitHub
+- 💡 IntelliJ IDEA
+- 📝 Visual Studio Code
+
+---
+
+# 📚 Atualmente estudando
+
+- ☕ Java
+- 🧩 Lógica de Programação
+- 📦 Programação Orientada a Objetos
+- 🌿 Git e GitHub
+
+---
+
+# 🎯 Objetivos
+
+- Conseguir minha primeira oportunidade como Desenvolvedor Back-End
+- Evoluir continuamente em Java
+- Aprender Spring Boot
+- Aprender MySQL
+- Desenvolver projetos completos para meu portfólio
+- Escrever código limpo, organizado e de fácil manutenção
+
+---
+
+# 📈 Minha jornada
+
+✅ Lógica de Programação
+
+✅ Python
+
+✅ Git e GitHub
+
+✅ Java Básico
+
+🔄 Programação Orientada a Objetos
+
+⏳ Spring Boot
+
+⏳ MySQL
+
+⏳ APIs REST
+
+---
+
+# 📬 Contato
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/fernandofsantos
+
+📧 Email
+
+ferreira.fe.08@gmail.com
+
+💻 GitHub
+
+https://github.com/fernandof-santos
