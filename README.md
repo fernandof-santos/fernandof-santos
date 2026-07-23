@@ -14,7 +14,6 @@
 <a href="mailto:ferreira.fe.08@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
 ---
 
