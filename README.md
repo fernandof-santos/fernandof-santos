@@ -1,20 +1,32 @@
-<h1 align="center">👋 Olá, eu sou o Fernando Ferreira!</h1>
+# 👋 Olá, eu sou o Fernando Ferreira!
 
-<p align="center">
-💻 Desenvolvedor Back-End em formação <br>
-🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+<div align="center">
+
+💻 Desenvolvedor Back-End em formação
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
 🚀 Em busca da minha primeira oportunidade como Desenvolvedor Back-End
-</p>
+
+<br>
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
+
+</div>
 
 ---
 
 # 🧠 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento Back-End.
 
-Atualmente estou construindo minha base em programação com foco em Java, desenvolvendo projetos práticos para fortalecer minha lógica de programação, escrita de código limpo e boas práticas de desenvolvimento.
+Atualmente estou construindo minha base sólida em **Java**, praticando lógica de programação, programação orientada a objetos, Git e boas práticas de desenvolvimento através de projetos práticos.
 
-Também estudo Git e GitHub para versionamento de código e documentação de projetos, buscando evoluir continuamente e construir um portfólio cada vez mais sólido.
+Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e evoluir constantemente criando projetos cada vez mais completos.
 
 ---
 
@@ -25,9 +37,9 @@ Também estudo Git e GitHub para versionamento de código e documentação de pr
 Coleção de exercícios desenvolvidos durante meus estudos em Java, organizados por tópicos como:
 
 - Variáveis
-- Estruturas condicionais
+- Estruturas Condicionais
 - Loops
-- Operações matemáticas
+- Operações Matemáticas
 - Algoritmos
 - Organização utilizando Packages
 
@@ -43,7 +55,7 @@ Projeto desenvolvido em Python para praticar lógica de programação, funções
 
 ---
 
-## 👨‍🎓 Sistema de Cadastro de Alunos
+## 🎓 Sistema de Cadastro de Alunos
 
 Projeto desenvolvido em Python para cadastro de alunos, cálculo de médias e gerenciamento simples de informações.
 
@@ -51,67 +63,141 @@ Projeto desenvolvido em Python para cadastro de alunos, cálculo de médias e ge
 
 ---
 
-# 🛠️ Tecnologias
+# 🛠 Tecnologias
 
 - ☕ Java
 - 🐍 Python
-- 🌿 Git
+- 🌱 Git
 - 🐙 GitHub
 - 💡 IntelliJ IDEA
 - 📝 Visual Studio Code
 
 ---
 
-# 📚 Atualmente estudando
+# 🎯 Atualmente estudando
 
 - ☕ Java
 - 🧩 Lógica de Programação
 - 📦 Programação Orientada a Objetos
-- 🌿 Git e GitHub
-
----
-
-# 🎯 Objetivos
-
-- Conseguir minha primeira oportunidade como Desenvolvedor Back-End
-- Evoluir continuamente em Java
-- Aprender Spring Boot
-- Aprender MySQL
-- Desenvolver projetos completos para meu portfólio
-- Escrever código limpo, organizado e de fácil manutenção
-
----
-
-# 📈 Minha jornada
-
-✅ Lógica de Programação
-
-✅ Python
-
-✅ Git e GitHub
-
-✅ Java Básico
-
-🔄 Programação Orientada a Objetos
-
-⏳ Spring Boot
-
-⏳ MySQL
-
-⏳ APIs REST
+- 🌱 Git e GitHub
 
 ---
 
 # 📬 Contato
 
-💼 LinkedIn
+<div align="center">
 
-https://www.linkedin.com/in/fernandofsantos
+<a href="https://www.linkedin.com/in/fernandofsantos">
+<img src="https://img.shields.io/badge/LinkedIn-Fernando%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-📧 Email
+<a href="mailto:ferreira.fe.08@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ferreira.fe.08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-ferreira.fe.08@gmail.com
+<a href="https://github.com/fernandof-santos">
+<img src="https://img.shields.io/badge/GitHub-fernandof--santos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-💻 GitHub
+</div># 👋 Olá, eu sou o Fernando Ferreira!
 
-https://github.com/fernandof-santos
+<div align="center">
+
+💻 Desenvolvedor Back-End em formação
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+🚀 Em busca da minha primeira oportunidade como Desenvolvedor Back-End
+
+<br>
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
+
+</div>
+
+---
+
+# 🧠 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento Back-End.
+
+Atualmente estou construindo minha base sólida em **Java**, praticando lógica de programação, programação orientada a objetos, Git e boas práticas de desenvolvimento através de projetos práticos.
+
+Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e evoluir constantemente criando projetos cada vez mais completos.
+
+---
+
+# 🚀 Projetos em destaque
+
+## ☕ Java Basic Exercises
+
+Coleção de exercícios desenvolvidos durante meus estudos em Java, organizados por tópicos como:
+
+- Variáveis
+- Estruturas Condicionais
+- Loops
+- Operações Matemáticas
+- Algoritmos
+- Organização utilizando Packages
+
+🔗 https://github.com/fernandof-santos/java-basic-exercises
+
+---
+
+## 🏦 Sistema Bancário
+
+Projeto desenvolvido em Python para praticar lógica de programação, funções e organização de código.
+
+🔗 https://github.com/fernandof-santos/Sistema-Bancario
+
+---
+
+## 🎓 Sistema de Cadastro de Alunos
+
+Projeto desenvolvido em Python para cadastro de alunos, cálculo de médias e gerenciamento simples de informações.
+
+🔗 https://github.com/fernandof-santos/sistema-cadastro-alunos-python
+
+---
+
+# 🛠 Tecnologias
+
+- ☕ Java
+- 🐍 Python
+- 🌱 Git
+- 🐙 GitHub
+- 💡 IntelliJ IDEA
+- 📝 Visual Studio Code
+
+---
+
+# 🎯 Atualmente estudando
+
+- ☕ Java
+- 🧩 Lógica de Programação
+- 📦 Programação Orientada a Objetos
+- 🌱 Git e GitHub
+
+---
+
+# 📬 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/fernandofsantos">
+<img src="https://img.shields.io/badge/LinkedIn-Fernando%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ferreira.fe.08@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ferreira.fe.08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/fernandof-santos">
+<img src="https://img.shields.io/badge/GitHub-fernandof--santos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
