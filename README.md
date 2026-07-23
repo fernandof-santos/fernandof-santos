@@ -7,29 +7,24 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernandofsantos">
-    <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:ferreira.fe.08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ferreira.fe.08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/fernandofsantos">
+<img src="https://img.shields.io/badge/LinkedIn-Fernando%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/fernando-santos">
-    <img src="https://img.shields.io/badge/GitHub-fernando--santos-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="mailto:ferreira.fe.08@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Enviar%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/fernando-santos">
+<img src="https://img.shields.io/badge/GitHub-fernando--santos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🧠 Sobre mim
+# 🧠 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento Back-End.
 
@@ -39,26 +34,43 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e evol
 
 ---
 
-## 🚀 Projetos em destaque
+# 🛠️ Tecnologias
 
-| Projeto | Descrição |
-|---------|-----------|
-| ☕ **Java Basic Exercises** | Coleção de exercícios em Java organizados por tópicos para consolidar os fundamentos da linguagem. <br><br>🔗 https://github.com/fernando-santos/java-basic-exercises |
-| 🏦 **Sistema Bancário** | Projeto em Python para praticar lógica de programação, funções e organização de código. <br><br>🔗 https://github.com/fernando-santos/Sistema-Bancario |
-| 🎓 **Sistema de Cadastro de Alunos** | Projeto em Python para gerenciamento simples de alunos e prática de estruturas de programação. <br><br>🔗 https://github.com/fernando-santos/sistema-cadastro-alunos-python |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=idea" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+
+</p>
 
 ---
 
-## 📚 Atualmente estudando
+# 🚀 Projetos em destaque
+
+| Projeto | Descrição |
+|---------|-----------|
+| ☕ **Java Basic Exercises** | Coleção de exercícios em Java organizados por tópicos para consolidar os fundamentos da linguagem.<br><br>🔗 **Repositório:** https://github.com/fernando-santos/java-basic-exercises |
+| 🏦 **Sistema Bancário** | Projeto em Python desenvolvido para praticar lógica de programação, funções e organização de código.<br><br>🔗 **Repositório:** https://github.com/fernando-santos/Sistema-Bancario |
+| 🎓 **Sistema de Cadastro de Alunos** | Projeto em Python para gerenciamento simples de alunos e prática de estruturas de programação.<br><br>🔗 **Repositório:** https://github.com/fernando-santos/sistema-cadastro-alunos-python |
+
+---
+
+# 📚 Atualmente estudando
 
 - ☕ Java
 - 🧩 Lógica de Programação
 - 📦 Programação Orientada a Objetos
 - 🌱 Git e GitHub
-- 💻 Boas práticas de desenvolvimento
+- ✨ Boas práticas de desenvolvimento
 
 ---
 
 <p align="center">
+
 ⭐ Obrigado por visitar meu perfil!
+
 </p>
