@@ -22,7 +22,7 @@
 
 # 🧠 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Cruzeiro do Sul (UNICSUL)**, apaixonado por desenvolvimento Back-End e pela construção de soluções através da programação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Cruzeiro do Sul (UNICSUL)**, Interessado por desenvolvimento Back-End e pela construção de soluções através da programação.
 
 Atualmente estou construindo uma base sólida em **Java**, praticando lógica de programação, Programação Orientada a Objetos, Git e boas práticas através de projetos práticos.
 
