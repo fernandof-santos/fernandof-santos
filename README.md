@@ -60,7 +60,8 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor, conti
 - ☕ Java
 - 📖 Lógica de Programação
 - 📦 Programação Orientada a Objetos (POO)
-- 🗄️ MySQL e Banco de Dados
+- 🗄️ MySQL e Banco de Dados.
+
 - 🌱 Git e GitHub
 - ✨ Boas práticas de desenvolvimento
 
