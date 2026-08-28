@@ -49,7 +49,7 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor, conti
 
 | Projeto | Descrição |
 |----------|-----------|
-| ☕ **Java Basic Exercises** | Coleção de exercícios desenvolvidos durante meus estudos em Java, organizados por tópicos para consolidar fundamentos da linguagem.<br><br>🔗 **[Acessar repositório](https://github.com/fernandof-santos/java-basic-exercises)** |
+| ☕ **Banco de Questões em Java** | Sistema desenvolvido em Java para praticar lógica de programação, estruturas de dados e operações de cadastro, consulta, atualização, remoção e simulado de questões.<br><br>🔗 **[Acessar repositório](https://github.com/fernandof-santos/banco-de-questoes-java)** |
 | 🏦 **Sistema Bancário** | Projeto desenvolvido em Python para praticar lógica de programação, funções e organização de código.<br><br>🔗 **[Acessar repositório](https://github.com/fernandof-santos/Sistema-Bancario)** |
 | 🎓 **Sistema de Cadastro de Alunos** | Projeto desenvolvido em Python para cadastro de alunos, cálculo de médias e gerenciamento simples de informações.<br><br>🔗 **[Acessar repositório](https://github.com/fernandof-santos/sistema-cadastro-alunos-python)** |
 
